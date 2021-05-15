@@ -1,6 +1,6 @@
 # Metrovalencia Balance Telegram Bot
 
-Pequeño bot hecho para hacer más fácil la comprobación del saldo de viajes restantes, utilizando la web de metrovalencia.
+Pequeño bot hecho para hacer más fácil la comprobación del saldo de viajes restantes, utilizando la web de metrovalencia. Hecho con Python 3.9
 
 ![Utilizacion](https://i.imgur.com/SYZCqH0.gif)
 
