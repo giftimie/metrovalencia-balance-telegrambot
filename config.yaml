@@ -1,0 +1,6 @@
+key: # La API key de tu bot.
+uid: # Tu ID de usuario
+bonometros: 
+  - # La URL a tu historial de viajes
+  - # Otra URL a tu historial de viajes
+  - # ...
