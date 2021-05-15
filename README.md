@@ -2,7 +2,7 @@
 
 Pequeño bot hecho para hacer más fácil la comprobación del saldo de viajes restantes, utilizando la web de metrovalencia.
 
-![Utilizacion](https://i.imgur.com/4lGQYY1.gif)
+![Utilizacion](https://i.imgur.com/SYZCqH0.gif)
 
 ## Instalación
 
