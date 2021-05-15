@@ -2,6 +2,8 @@
 
 Pequeño bot hecho para hacer más fácil la comprobación del saldo de viajes restantes, utilizando la web de metrovalencia.
 
+![Utilizacion](https://i.imgur.com/4lGQYY1.gif)
+
 ## Instalación
 
 Usa el gestor de paquetes [pip](https://pip.pypa.io/en/stable/) para instalar los requerimientos.
@@ -27,8 +29,6 @@ Después de rellenar la configuración, puedes ejecutar el bot mediante:
 ```python
 py echo_bot.py
 ```
-
-![Utilizacion](https://i.imgur.com/4lGQYY1.gif)
 
 ## Contribuye
 Las contribuciones son bienvenidas, aunque no necesarias. Tienes la libertad de hacer lo que desees con el código.
