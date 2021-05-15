@@ -28,6 +28,8 @@ Después de rellenar la configuración, puedes ejecutar el bot mediante:
 py echo_bot.py
 ```
 
+![Utilizacion](https://i.imgur.com/4lGQYY1.gif)
+
 ## Contribuye
 Las contribuciones son bienvenidas, aunque no necesarias. Tienes la libertad de hacer lo que desees con el código.
 
